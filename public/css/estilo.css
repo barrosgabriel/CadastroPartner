@@ -1,0 +1,14 @@
+body  {
+	margin: 0;
+	padding: 0;
+	}
+
+
+.rodape{
+    font-size: 0.8rem !important;
+    color: rgb(80, 77, 88);
+}
+
+h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
